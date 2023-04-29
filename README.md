@@ -1,6 +1,5 @@
 ```C++
 class MyProfile {
-public:
 	std::string FullName() {
 		return "Allen White";
 	}
