@@ -1,25 +1,34 @@
 ```C++
 class MyProfile {
-  std::string FullName() {
-    return "Allen White";
-  }
+    auto FullName() {
+        return "Allen White";
+    }
 
-  std::string Gender() {
-    return "Male";
-  }
+    auto Gender() {
+        return "Male";
+    }
 
-  int Age() {
-    return 16;
-  }
+    auto Age() {
+        return 16;
+    }
 
-  std::vector<std::string> Skills() {
-    std::vector<std::string> skills { "C/C++", "C#", "A little bit of python" };
-    return skills;
-  }
+    auto Skills() {
+        std::vector<std::string> skills {
+            "C/C++", "C#", "WinForms",
+            "WPF", "MySQL", "AHK"
+        };
+        
+        return skills;
+    }
 
-  std::vector<std::string> Socials() {
-    std::vector<std::string> socials { "Discord: 0xLUXX#8884", "Telegram: @luxbyaw"};
-    return socials;
-  }
+    auto Socials() {
+        std::vector<std::string> socials {
+            "Discord: 0xLUXX#8884",
+            "Telegram: @luxxbyaw",
+            "VK: @a.aw10"
+        };
+        
+        return socials;
+    }
 };
 ```
