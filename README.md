@@ -1,7 +1,7 @@
 ```C++
 class MyProfile {
     auto FullName() {
-        return "Allen White";
+        return "Alan Moore";
     }
 
 
