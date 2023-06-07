@@ -37,4 +37,4 @@ class MyProfile {
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=0xLuxx&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&count_private=true&hide_border=true" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xLuxx&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xLuxx&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&hide_border=true&layout=compact" align="left" />
