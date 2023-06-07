@@ -18,7 +18,7 @@ class MyProfile {
     auto Skills() {
         std::vector<std::string> skills {
             "C/C++", "C#", "WinForms",
-            "WPF", "MySQL", "AHK"
+            "WPF", "MySQL", "AHK", "Git"
         };
         return skills;
     }
@@ -28,7 +28,7 @@ class MyProfile {
         std::vector<std::string> socials {
             "Discord: 0xLUXX#8884",
             "Telegram: @luxxbyaw",
-            "VK: @a.aw10"
+            "VK: @a.am10"
         };
         return socials;
     }
@@ -36,5 +36,5 @@ class MyProfile {
 ```
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xLuxx&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=0xLuxx&show_icons=true&title_color=fff&icon_color=ffff00&text_color=ccc&bg_color=222&count_private=true&hide_border=true" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xLuxx&hide_border=true&layout=compact" align="left" />
