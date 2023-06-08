@@ -28,8 +28,7 @@ class MyProfile {
     auto Socials() {
         std::vector<std::string> socials {
             "Discord: 0xLuxxz#8884",
-            "Telegram: @luxxbyaw",
-            "VK: @a.am10"
+            "Telegram: @luxxbyaw"
         };
         return socials;
     }
