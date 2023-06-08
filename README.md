@@ -18,7 +18,8 @@ class MyProfile {
     auto Skills() {
         std::vector<std::string> skills {
             "C/C++", "C#", "WinForms",
-            "WPF", "MySQL", "AHK", "Git"
+            "WPF", "MySQL", "AHK", "Git",
+            "CMake"
         };
         return skills;
     }
